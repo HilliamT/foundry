@@ -1,3 +1,9 @@
+##################################################################
+#                   FORMATTING RULES FOR RUSTFMT
+##################################################################
+# Repo: https://github.com/rust-lang/rustfmt
+# See: https://rust-lang.github.io/rustfmt/?version=v1.5.1&search=
+##################################################################
 reorder_imports = true
 imports_granularity = "Crate"
 use_small_heuristics = "Max"
